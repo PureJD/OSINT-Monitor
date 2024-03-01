@@ -2,7 +2,7 @@
 ### This is a tool devised for use within OSINT investigations in which a website is under investigation and updates to the site are expected and need to be recorded.
 ![Tech globe](https://media.istockphoto.com/id/1405728317/vector/global-network-connection-world-map-point-and-line-composition-concept-of-global-business.jpg?s=612x612&w=0&k=20&c=u_DZ9MwU6DFC0-TVD4qnZFmHDu2PoWYhDzppUaijv-c=)
 
-### - In the program code the user is required to set the email address they wish to recieve notifications on as well as the website they wish to be observed. 
+### - In the program code the user is required to set the email address they wish to receive notifications on as well as the website they wish to be observed. 
 
 ### - The code performs the following;
 - Attends the web page selected and captures the HTML using the Requests Library and stores the HTML in a variable.
